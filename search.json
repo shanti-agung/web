@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "R\n\n\nmodeling\n\n\ndata wrangling\n\n\n\n\n\n\n\n\n\n\nAug 19, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shanti Agung",
+    "section": "",
+    "text": "I am Shanti – a social scientist and data scientist. Currently, I do research and data science for social good. I love working with mission-driven organizations. My goal is to leverage data, empirical methods, and social science to help organizations communicate their impact and achieve their missions.\n\n\nGeorgia Institute of Technology | Atlanta, USA\nPhD in Strategy and Innovation (minor in Economics)\nGeorgia Institute of Technology | Atlanta, USA\nMaster of Business Administration\nInstitut Teknologi Bandung | Bandung, Indonesia\nBSc in Industrial Engineering"
+  },
+  {
+    "objectID": "project-posts/20220819-rladies-jat-datathon/index.html",
+    "href": "project-posts/20220819-rladies-jat-datathon/index.html",
+    "title": "RLadies Philly 2021 Datathon",
+    "section": "",
+    "text": "Every year, RLadies Philly organizes a datathon to promote learning among R enthusiasts and contribute to the local community. In 2021, the organization partnered with JAT, a coalition of organizations with a shared mission of holding judicial candidates accountable to a vision of justice that aligns with the community’s vision.\nThe data was information on Philadelphia public court docket between 2010 to 2020. Teams explored the data from three different emphasis: team 1 focused on creating data visualization, team 2 defined and quantified judge “harshness,” and team 3 aimed to understand systemic trends in the courts.\nI joined team 2, where we examined judge harshness using a modeling approach. We quantified “harshness” as days of confinement that a judge sentenced. Then, we built random coefficient models and dummy variable models on a dataset of 176,712 dockets and 186 judges. After considering offense grades, defendant demographic information, and court information, our preliminary findings suggest that some judges are “harsher” than others. The models also offer estimates of average days of confinement that a particular judge may sentence. As the results were preliminary, further work is needed to examine judge harshness.\nI had a great time, met wonderful data enthusiasts, and learned much by participating in the JAT Datathon. I am genuinely grateful to RLadies Philly and JAT for hosting this fantastic event!\nThe code and the report exploring judge harshness in Philadelphia courts are available in the GitHub repo of RLadies Philly-JAT Datathon."
+  }
+]
