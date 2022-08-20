@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "Shanti Agung"
+  navbar:
+    right:
+      - projects.qmd
+      - icon: github
+        href: https://github.com/shanti-agung
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shanti-agung/
+format:
+  html:
+    theme: flatly
+    css: styles.css
+
+editor: visual
+

@@ -1,0 +1,31 @@
+---
+title: "Shanti Agung"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/shanti-agung/
+    - icon: github
+      text: Github
+      href: https://github.com/shanti-agung
+---
+
+# Hi there! Welcome.
+
+\
+I am Shanti -- a social scientist and data scientist. Currently, I do research and data science for social good. I love working with mission-driven organizations. My goal is to leverage data, empirical methods, and social science to help organizations communicate their impact and achieve their missions.
+
+#### Education
+
+Georgia Institute of Technology \| Atlanta, USA\
+PhD in Strategy and Innovation (minor in Economics)
+
+Georgia Institute of Technology \| Atlanta, USA\
+Master of Business Administration
+
+Institut Teknologi Bandung \| Bandung, Indonesia\
+BSc in Industrial Engineering

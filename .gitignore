@@ -2,3 +2,12 @@
 .Rhistory
 .RData
 .Ruserdata
+
+.Rprofile
+*.Rproj
+.DS_Store
+
+/_site/
+/renv/
+
+/.quarto/
