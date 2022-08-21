@@ -13,6 +13,6 @@ The data was information on Philadelphia public court docket between 2010 to 202
 
 I joined team 2, where we examined judge harshness using a modeling approach. We quantified "harshness" as days of confinement that a judge sentenced. Then, we built random coefficient models and dummy variable models on a dataset of 176,712 dockets and 186 judges. After considering offense grades, defendant demographic information, and court information, our preliminary findings suggest that some judges are "harsher" than others. The models also offer estimates of average days of confinement that a particular judge may sentence. As the results were preliminary, further work is needed to examine judge harshness.
 
-I had a great time, met wonderful data enthusiasts, and learned much by participating in the JAT Datathon. I am genuinely grateful to RLadies Philly and JAT for hosting this fantastic event!
-
 The code and the report exploring judge harshness in Philadelphia courts are available in the [GitHub repo of RLadies Philly-JAT Datathon](https://github.com/rladiesPHL/2021_datathon).
+
+I had a great time, met wonderful data enthusiasts, and learned much by participating in the JAT Datathon. I am genuinely grateful to RLadies Philly and JAT for hosting this fantastic event.

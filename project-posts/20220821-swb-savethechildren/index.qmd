@@ -1,0 +1,14 @@
+---
+title: "Sampling Methodology Guidance and Sample Size Calculators"
+date: "2022-08-20"
+categories: [sampling, complex survey]
+image: "survey.jpg"
+---
+
+Statistic Without Borders launched a project in partnership with Save the Children.
+
+This consultation project focused on assessing sampling calculators, culminating in a sample-size-calculator decision tool for 1,500 Save the Children staff members who work on data collection to choose suitable calculators for their type of study.
+
+In evaluating sampling calculators, we clarified their assumptions, specified possible limitations, and verified their calculations for sample size and level of accuracy. The resulting tool is publicly available at [Save the Children's Resource Center](https://resourcecentre.savethechildren.net/document/sample-size-calculator-decision-tool/).
+
+This project was a joy to work on. I sincerely thank Statistics Without Borders, Save the Children, Sangeeta -- our project PM, Rick -- our statistical expert consultant, and my fellow reviewer volunteers -- Abraham, Casey, and Shalini, for making this valuable project a wonderful experience. It was an honor to be part of the team.
