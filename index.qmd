@@ -1,6 +1,6 @@
 ---
 title: "Shanti Agung"
-image: profile.jpg
+image: profile-bw.jpg
 about:
   template: trestles
   image-shape: round
