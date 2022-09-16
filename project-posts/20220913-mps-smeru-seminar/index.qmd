@@ -1,0 +1,27 @@
+---
+title: "Research Study on MPS Program for Quality Education"
+subtitle: "Presented at SMERU Research Institute"
+date: "2022-09-16"
+bibliography: references.bib
+csl: apa.csl
+image: "mountain.jpg"
+categories: [education, research]
+---
+
+On a research visit to SMERU Research Institute in 2018, I presented a study on the potential contributions of evaluating the impact of MPS program for quality education. 
+
+Early in the visit,  I started a collaboration with Masyarakat Pendidikan Sejati (MPS) ---an Indonesian non-profit organization with a vision of "transforming education into an effective means to live a meaningful life." Together with the MPS founder, we initiated an evaluation study on their teacher-training program titled "Transformation Program: A Virtue and Character Strengths Driven Approach to Quality Education." 
+
+MPS (then Yayasan Sasana Daya Cipta) initiated the Transformation Program in 1993 in Jawa Barat province in Indonesia. While the program initially emphasized creativity and individual learning, it currently focuses on school community transformation. Then in 2012, MPS introduced the program in Sumba Timur district in Nusa Tenggara Timur (NTT) province. NTT, where 20 percent of the people live in poverty [@bps_2012], is an underdeveloped province in Indonesia.
+
+To identify potential contributions of evaluating the Transformation Program, I reviewed economic literature on education in developing countries. The review focused on formal education, school ages (i.e., life-cycle stage 2 [@behrman_2010]), and factors inside education systems (e.g., @glewwe_kremer_2006).
+
+Studies examining how education systems in developing countries affect the quality of education have approached the low level of educational outcomes as an education production function problem or agency problem. In contrast, we view this problem as a problem of identity beliefs. 
+
+We grounded our view on theoretical models of identity beliefs, particularly those developed by @akerlof_kranton_2000 and @benabou_tirole_2011. Besides the literature review, we conducted qualitative groundwork through field visits to the Sumba Timur district. I also developed a preliminary design of a randomized controlled trial (RCT) to evaluate the impact of the Transformation Program.
+
+Conducting an impact evaluation on the Transformation Program could benefit the ongoing effort to achieve quality education in developing countries by providing empirical evidence on an alternative view of accountability, an internal rather than external accountability. In so doing, such a study will also provide a basis for organizations and policy-makers to consider whether to include intervention in teachers' identity beliefs into their existing approaches to improving teachers' efforts and students' learning outcomes. A reproduction of the presentation slides is [available here](https://shanti-agung.github.io/smeru-seminar-mps-program).
+
+I am grateful to Pak Raka and Pak Nana of MPS and Pak Asep of SMERU Research Institute for making the project and research visit possible; to teachers and school principles for their time and insights; and to fellow researchers at SMERU Research Institute for the great conversations, helpful feedback, and altogether awesome time during my visit at the institute.
+
+### References
