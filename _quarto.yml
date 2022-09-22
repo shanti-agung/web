@@ -12,7 +12,7 @@ website:
         href: https://www.linkedin.com/in/shanti-agung/
 format:
   html:
-    theme: flatly
+    theme: [flatly, styles.css]
     css: styles.css
 
 editor: visual

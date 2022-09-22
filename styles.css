@@ -1,1 +1,6 @@
 /* css styles */
+
+/*-- scss:defaults --*/
+// color system
+$cyan:    #3498db !default;
+$success:       $cyan !default;
