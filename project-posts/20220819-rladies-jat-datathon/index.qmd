@@ -16,3 +16,7 @@ I joined team 2, where we examined judge harshness using a modeling approach. We
 The code and the report exploring judge harshness in Philadelphia courts are available in the [GitHub repo of RLadies Philly-JAT Datathon](https://github.com/rladiesPHL/2021_datathon).
 
 I had a great time, met wonderful data enthusiasts, and learned much by participating in the JAT Datathon. I am genuinely grateful to RLadies Philly and JAT for hosting this fantastic event.
+
+---
+
+<a href="https://github.com/rladiesPHL/2021_datathon" title="Go to GitHub repo"><img src="https://img.shields.io/badge/Code-Repository-18bc9c?style=for-the-badge&logo=github" alt="Code - Repository"></a>
