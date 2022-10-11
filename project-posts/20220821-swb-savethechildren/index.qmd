@@ -11,8 +11,8 @@ The project focused on assessing sampling calculators. The deliverable was a sam
 
 Starting in August 2021, our team evaluated sampling calculators often used by Save the Children staff members. We clarified the underlying assumptions of those calculators, specified possible limitations, and verified their calculations for sample size and level of accuracy. The resulting tool is publicly available at [Save the Children's Resource Centre](https://resourcecentre.savethechildren.net/document/sample-size-calculator-decision-tool/).
 
-This project was a joy to work on. I sincerely thank Statistics Without Borders, Save the Children, Sangeeta -- our PM, Rick -- our statistical expert consultant, and my fellow reviewer volunteers -- Abraham, Casey, and Shalini, for making this valuable project a wonderful experience. It was an honor to be part of the team.
+This project was a joy to work on. I sincerely thank Statistics Without Borders, Save the Children, Sangeeta -- our PM, Rick -- our statistical expert consultant, and my fellow reviewer volunteers -- Abraham, Casey, and Shalini, for making this valuable project a wonderful experience. It was an honor to be part of the team. In the project listing, the photo for this post is courtesy of Unsplash.
 
----
+------------------------------------------------------------------------
 
-<a href="https://resourcecentre.savethechildren.net/document/sample-size-calculator-decision-tool/" title="Go to SC Resource Centre"><img src="https://img.shields.io/badge/View-Decision_Tool-18bc9c?style=for-the-badge" alt="View - Decision Tool"></a>
+<a href="https://resourcecentre.savethechildren.net/document/sample-size-calculator-decision-tool/" title="Go to SC Resource Centre"><img src="https://img.shields.io/badge/View-Decision_Tool-18bc9c?style=for-the-badge" alt="View - Decision Tool"/></a>
