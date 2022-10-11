@@ -1,6 +1,5 @@
 ---
 title: "Research Study on MPS Program for Quality Education"
-subtitle: "Presented at SMERU Research Institute"
 date: "2022-09-16"
 description: "A reseach study and presentation at SMERU Research Institute"
 bibliography: references.bib
