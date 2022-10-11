@@ -1,6 +1,7 @@
 ---
 title: "Sampling Methodology Guidance and Sample Size Calculators"
 date: "2022-08-20"
+description: "A Statistics Without Borders project to help Save the Children"
 categories: [sampling, complex survey]
 image: "survey.jpg"
 ---

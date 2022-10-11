@@ -1,13 +1,12 @@
 ---
 title: "RLadies Philly 2021 Datathon"
 date: "2022-08-19"
+description: "RLadies Philly partnership with Judge Accountability Table to explore judicial patterns in Philadelphia courts"
 categories: [R, modeling, data wrangling]
 image: "court.jpg"
 ---
 
-RLadies Philly partnered with Judge Accountability Table (JAT) to explore judicial patterns in Philadelphia courts.
-
-Every year, RLadies Philly organizes a datathon to promote learning among R enthusiasts and contribute to the local community. In 2021, the organization partnered with JAT, a coalition of organizations with a shared mission of holding judicial candidates accountable to a vision of justice that aligns with the community's vision.
+Every year, RLadies Philly organizes a datathon to promote learning among R enthusiasts and contribute to the local community. In 2021, the organization partnered with Judge Accountability Table (JAT), a coalition of organizations with a shared mission of holding judicial candidates accountable to a vision of justice that aligns with the community's vision.
 
 The data was information on Philadelphia public court docket between 2010 to 2020. Teams explored the data from three different emphasis: team 1 focused on creating data visualization, team 2 defined and quantified judge "harshness," and team 3 aimed to understand systemic trends in the courts.
 
