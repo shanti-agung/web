@@ -1,0 +1,9 @@
+---
+title: "Reviews and Survival of Restaurants in the U.S. During COVID-19"
+date: "2022-10-31"
+description: "A Project for Data Science 4 All-Women Summit"
+draft: true
+categories: [python] 
+---
+
+COVID-19 affected the lives and livelihoods of many people. My team and I were particularly interested in understanding how COVID-19 affected restaurants in the U.S., where more than 100,000 restaurants closed temporarily and permanently in response to the pandemic.
